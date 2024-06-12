@@ -155,5 +155,6 @@ aside{
     width: 80%;
     bottom: 20px;
     padding: 10px;
-    overflow-y: scroll; /*poder hacer scroll para abajo si el texto se corta*/ 
+    overflow-y: scroll; /*poder hacer scroll para abajo si el texto se corta*/
 }
+
